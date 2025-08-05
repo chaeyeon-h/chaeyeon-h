@@ -3,6 +3,7 @@
 
 ## 🎓 Education
 2021.03 ~ 2025.02 : B.S. in Artificial Intelligence, Inha University
+
 2023.09 ~ 2024.01 : Charles III University of Madrid (*Exchange Student*)
 
 ## 🪪 Certifications
