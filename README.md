@@ -1,16 +1,15 @@
-## Hi there 👋
+# 허채연 *Heo Chaeyeon*
 
-<!--
-**chaeyeon-h/chaeyeon-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🎓 Education
+2021.03 ~ 2025.02 : B.S. in Artificial Intelligence, Inha University
+2023.09 ~ 2024.01 : Charles III University of Madrid (*Exchange Student*)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🪪 Certifications
+
+| Certificate | **Date Acquired** |
+| --- | --- |
+| OPIc(IH) | 2025.01.31 |
+| ADsP (데이터분석 준전문가) | 2024.11.29 |
+| SQLD | 2024.12.13 |
+| 정보처리기사 | Acquiring |
