@@ -9,7 +9,7 @@
 
 | Certificate | **Date Acquired** |
 | --- | --- |
-| OPIc(IH) | 2025.01.31 |
 | ADsP (데이터분석 준전문가) | 2024.11.29 |
 | SQLD | 2024.12.13 |
+| OPIc(IH) | 2025.01.31 |
 | 정보처리기사 | Acquiring |
